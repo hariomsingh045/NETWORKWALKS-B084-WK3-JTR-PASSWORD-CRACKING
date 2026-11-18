@@ -244,7 +244,7 @@ This project was carried out strictly for educational purposes, as part of an au
 
 ## Author
 
-**Utsav Kumar Thakur**
+**Hariom Singh**
 Cybersecurity Student — NetworkWalks Cybersecurity & Ethical Hacking Program (Batch B084)
 
 
