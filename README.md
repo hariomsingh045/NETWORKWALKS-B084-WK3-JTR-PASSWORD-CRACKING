@@ -9,7 +9,7 @@
 
 A hands-on password-auditing lab from the **NetworkWalks Cybersecurity & Ethical Hacking Program (Batch B084)**: using **John the Ripper (JTR)** and its graphical front end **Johnny** to recover the password of a protected PDF on a Windows PC.
 
-> 🔗 Project post: [LinkedIn](https://lnkd.in/p/daBwpxwp)
+> 🔗 Project post: [LinkedIn](https://lnkd.in/p/dPB7R-eF)
 
 ---
 ---
